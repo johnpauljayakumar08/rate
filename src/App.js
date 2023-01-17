@@ -1,23 +1,27 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Card from './card'
+import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import Home from './home';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import {faCab, faUser,faEnvelope} from '@fortawesome/free-solid-svg-icons'
+// import {faUser} from '@fortawesome/free-regular-svg-icons'
+import {BrowserRouter,Routes,Route} from 'react-router-dom'
+import { Menu } from './menu';
+import About from './about';
+import Details from './details';
+import { Table } from './table';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <BrowserRouter>
+        <Routes>
+          <Route path='/menu' element={<Menu/>}/>
+          <Route path='/' element={<Table/>}/>
+          <Route path='/about' element={<About/>}/>
+          <Route path='/details/:id' element={<Details/>}/>
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }

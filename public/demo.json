@@ -1,0 +1,426 @@
+[
+    {
+        "name":"Shanmugam. R",
+        "Communication":"3.5",
+        "Aptitude":"3",
+        "UI_Designing_Skill":"3.5",
+        "Logical_Skill":"3.8",
+        "Framework":"4.5",
+        "Database_Skill":"4.5"
+
+    },
+    {
+        "name":"AjithRam.C",
+        "Communication":"3.5",
+        "Aptitude":"3.2",
+        "UI_Designing_Skill":"3.5",
+        "Logical_Skill":"3.8",
+        "Framework":"4.5",
+        "Database_Skill":"4.2"
+
+    },
+    {
+        "name":"THAMARAI KANNAN T R",
+        "Communication":"6.8",
+        "Aptitude":"",
+        "UI_Designing_Skill":"4.2",
+        "Logical_Skill":"3.5",
+        "Framework":"4.6",
+        "Database_Skill":"4.5"
+
+    },
+    {
+        "name":"Edwin Raj.R",
+        "Communication":"8",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Keerthana.R",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Mahalakshmi.T",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Devendran.N",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"GOWTHAM.K",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Vishnu.S",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"SANJEEVEE.S",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"BALAMURUGA S A",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"GOKUL M",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"MAHADEVASWAMY S",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"MUGUNTHAN S",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },  
+    {
+        "name":"NAVEEN K",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"NAVEENKARTHICK S",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"NIVAS PRABHU K",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"KIRUTHIKA V",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"SANTHOSH P",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"SHAHUL HAMEED B",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"VIGNESH T",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"DHILEEP KUMAR G",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"HARIHARAN G",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"VISHNU PRASATH R",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"KARTHIK K",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Arun V",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Nirmal Raj S",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Pavithiran R",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Ponrajesh Kumar E",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Pradhap M",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Sneha K",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Sneha P",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Sriram K",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Valli G",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Ragul R",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Elakkiya.N",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Harish Pravin.S",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Ram Sundar.D",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Saravana Kumar S",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    },
+    {
+        "name":"Kathik.N",
+        "Communication":"",
+        "Aptitude":"",
+        "UI_Designing_Skill":"",
+        "Logical_Skill":"",
+        "Framework":"",
+        "Database_Skill":""
+
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
