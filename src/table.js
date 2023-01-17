@@ -30,62 +30,62 @@ export function Table(){
                 <tr>
                 
                     <td>Front-End Developer</td>
-                    <td><StarRatings rating={value.Communication} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                    <td><StarRatings rating={value.Aptitude} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                    <td><StarRatings rating={value.UI_Designing_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                    <td><StarRatings rating={parseInt(value.Communication)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                    <td><StarRatings rating={parseInt(value.Aptitude)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                    <td><StarRatings rating={parseInt(value.UI_Designing_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
                     <td>NA</td>
-                    <td><StarRatings rating={value.Framework} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                    <td><StarRatings rating={parseInt(value.Framework)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
                     <td>NA</td>
                 </tr>
                 <tr>
                 
                 <td>Web Application Developer</td>
-                <td><StarRatings rating={value.Communication} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Aptitude} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.UI_Designing_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Logical_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Framework} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Communication)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Aptitude)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.UI_Designing_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Logical_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Framework)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
                 <td>NA</td>
             </tr>
             <tr>
                 
                 <td>Software Developer</td>
-                <td><StarRatings rating={value.Communication} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Aptitude} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.UI_Designing_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Logical_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Framework} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Database_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Communication)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Aptitude)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.UI_Designing_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Logical_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Framework)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Database_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
             </tr>
             <tr>
                 
                 <td>Back-End Developer</td>
-                <td><StarRatings rating={value.Communication} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Aptitude} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Communication)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Aptitude)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
                 <td>NA</td>
-                <td><StarRatings rating={value.Logical_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Framework} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Database_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Logical_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Framework)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Database_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
             </tr>
             <tr>
                 
                 <td>Data Developer</td>
-                <td><StarRatings rating={value.Communication} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Aptitude} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Communication)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Aptitude)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
                 <td>NA</td>
-                <td><StarRatings rating={value.Logical_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Logical_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
                 <td>NA</td>
-                <td><StarRatings rating={value.Database_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Database_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
             </tr>
             <tr>
                 
                 <td>Full-stack Developer</td>
-                <td><StarRatings rating={value.Communication} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Aptitude} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.UI_Designing_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Logical_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Framework} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
-                <td><StarRatings rating={value.Database_Skill} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Communication)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Aptitude)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.UI_Designing_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Logical_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Framework)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
+                <td><StarRatings rating={parseInt(value.Database_Skill)} starDimension="22px" starSpacing="2px" starRatedColor="gold"/></td>
             </tr>
                 
             </tbody>
